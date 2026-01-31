@@ -3,7 +3,7 @@
 A lightweight, browser-based tool that transforms Markdown syntax into clean HTML code and provides a real-time visual preview.
 
 ## 🚀 Live Demo
-[[HIER DEINEN GITHUB PAGES LINK EINFÜGEN]](https://viviraffo.github.io/markdown-to-html-converter/)
+https://viviraffo.github.io/markdown-to-html-converter/
 
 ## 📝 Description
 This tool serves as a bridge between simple text formatting and web rendering. It was developed to practice **String Manipulation** and **Regular Expressions (RegEx)**. The converter listens for input changes and instantly updates both the raw HTML output and the rendered preview, providing a seamless developer experience.
